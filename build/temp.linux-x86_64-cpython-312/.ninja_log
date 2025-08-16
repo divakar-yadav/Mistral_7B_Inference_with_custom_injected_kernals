@@ -1,0 +1,7 @@
+# ninja log v7
+1	722	1755222191786422419	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/qk_attn_kernel.o	8574df0c4c703933
+0	16386	1755222191785422409	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/qk_attn.o	c87c5c4adda9747f
+3	687	1755222208438576865	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/rope_apply.o	fa6fe92c6035d886
+3	699	1755222208438576865	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/rmsnorm.o	b4cebfe839f95090
+3	724	1755222208438576865	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/av_attn.o	26cff974d12502e9
+2	16624	1755222208437576855	/home/azureuser/divakar_projects/cuda_graph_custom_kernal/build/temp.linux-x86_64-cpython-312/ext/attn_extra.o	511a78336ddddd2d
