@@ -2,7 +2,7 @@ Here is your README with the CUDA Graph parts cleanly removed while keeping the 
 
 ---
 
-# Mistral-7B Custom CUDA Attention – README
+# Mistral-7B Custom CUDA Attention
 
 End-to-end example project that loads **Mistral-7B** with Hugging Face Transformers, **replaces only the attention score op** `Q·Kᵀ/√d` with your **custom CUDA kernel**, and (optionally) swaps in a custom **A·V** kernel.
 
